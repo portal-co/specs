@@ -6,7 +6,7 @@ This document MAY update, upon which any software compliant with it will stay co
 
 # Regions
 
-A censored region is defined as a region wherein people have reasonable control over its workings but are restricted in information ownership, aside from demonstrated provisions which solely and entirely enforce common decency.
+A censored region is defined as a region wherein people have reasonable control over its workings but are restricted in information ownership, aside from provisions which demonstratively solely and entirely enforce common decency.
 
 An uncensored region is any region that is NOT a censored region
 
