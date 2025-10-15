@@ -4,3 +4,10 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 This document MAY update, upon which any software compliant with it will stay compliant until the next time it is widely distributed, upon which it MUST follow the current specification at that time to stay compliant.
 
+# Regions
+
+A censored region is defined as a region wherein people have reasonable control over its workings but are restricted in information ownership, aside from demonstrated provisions which solely and entirely enforce common decency.
+
+An uncensored region is any region that is NOT a censored region
+
+Compliant software, unless further licensed and guided to, MUST NOT permit users in censored regions to use the softwae. Compliant software SHOULD NOT prohibit users in uncensored regions from using the software.
