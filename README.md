@@ -1,13 +1,14 @@
 # specs
 
 ## Description
-Project specs
+Repository for project specifications and design documents (`SECURE_CLIENT.md`).
 
 ## Goals
-- [ ] Add project goals
+- [ ] Document system designs
+- [ ] Define security requirements
 
 ## Progress
-- [ ] Initial setup
+- [ ] Spec files present
 
 ---
 *AI assisted*
